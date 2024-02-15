@@ -15,6 +15,7 @@ public class App {
             System.out.println(string);
         }
     }
+    System.out.println(string);
 
     public static List<String> str() throws IOException {
 
